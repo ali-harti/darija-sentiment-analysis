@@ -94,4 +94,4 @@ print(predicted_class) # Output: 2 (Positive)
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-**Developed by Ali Harti**
+**Ali Harti**
